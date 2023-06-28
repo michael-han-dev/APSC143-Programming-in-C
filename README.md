@@ -1,3 +1,3 @@
-# Thundermugz
+# APSC143-Programming-in-C
 
-Project #2 for APSC 143 programming in C course for engineers.
+APSC 143 programming in C course for engineers.
